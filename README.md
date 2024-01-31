@@ -8,3 +8,9 @@ Of course, it could be! In this repo, we collect the related state-of-the-art pa
 ## Adopt AI task to consumer-level devices.
 
 - PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU, [[codebase]](https://github.com/SJTU-IPADS/PowerInfer)
+
+## Useful AI ToolChains
+
+### LLM
+- Alpaca-LoRA [[codebase]](https://github.com/tloen/alpaca-lora)
+    Notes: If you use the customized alpaca-datasets, some issues may arise. Solutions can be found here.: https://github.com/tloen/alpaca-lora/issues/609
